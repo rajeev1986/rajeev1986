@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Bula and Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajeev</h1>
-<h3 align="center">I'm a Wireless Systems Engineer | Research Scientist | Photographer
+<h1 align="center">Bula and Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I'm Rajeev</h1>
+<h3 align="center">Wireless Systems Engineer | Research Scientist | Photographer
 originally from the beautiful islands of Fiji and now living and working in Chicago, USA.</h3>
 
 
