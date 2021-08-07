@@ -50,5 +50,6 @@ originally from the beautiful islands of Fiji and now living and working in Chic
 <a href = "https://www.linkedin.com/in/rajeevpiyare/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/piyare_rajeev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/rajeevpiyare/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://500px.com/p/rajeevpiyare?"><img src="https://img.icons8.com/color/48/000000/500px-new.png"/>"/></a>
 
 </p>
