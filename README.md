@@ -9,7 +9,7 @@ originally from the beautiful islands of Fiji and now living and working in Chic
 
 - 🔭 I’m currently working on something very cool and will be revealed soon 😉.
 
-- 🌱 I’m currently learning **[ZephyrOS](https://www.zephyrproject.org/)**.
+- 🌱 Building easy to use and energy-autonomous IoT systems using **[ZephyrOS](https://www.zephyrproject.org/)**.
 
 - 👯 Always happy to collaborate on **OpenSource Projects**.
 
