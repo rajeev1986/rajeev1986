@@ -7,7 +7,7 @@ originally from the beautiful islands of Fiji and now living and working in Chic
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on something very cool and will be revealed soon 😉.
+- 🔭 Building an easy-to-use IoT-powered supply chain visibility and asset monitoring platform [Conexio Tech](https://conexiotech.com/) 😉.
 
 - 🌱 Building easy to use and energy-autonomous IoT systems using **[ZephyrOS](https://www.zephyrproject.org/)**.
 
