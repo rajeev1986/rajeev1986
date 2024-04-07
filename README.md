@@ -33,15 +33,6 @@ originally from the beautiful islands of Fiji and now living and working in Chic
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br/>
-<br/>
-
-<a href="https://github.com/rajeev1986/github-readme-activity-graph"><img alt="Rajeev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rajeev1986&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Connect with me:
 <p align="left">
 
